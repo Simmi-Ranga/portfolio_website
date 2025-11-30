@@ -31,7 +31,7 @@ h2 {
 
 h3 {
   font-size: 1.75em;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 h4 {
@@ -358,7 +358,7 @@ nav>ul>li>a {
 
 /*about page*/
 .about-img {
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: auto;
