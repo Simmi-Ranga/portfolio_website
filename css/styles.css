@@ -41,7 +41,7 @@ h4 {
 
 /*header styling*/
 header {
-  display:flex;
+  
   position: relative;
   width: 100%;
   background-color: rgb(255, 255, 255);
@@ -122,6 +122,7 @@ nav>ul>li>a {
 
 .navtoggle.responsive nav {
   padding: 24px 0 0;
+  text-align: center;
 }
 
 .navtoggle.responsive li {
@@ -466,7 +467,7 @@ Medium devices (640px and larger)
 ================================= */
 @media only screen and (min-width: 640px) {
   header {
-    position: relative;
+    
     text-align: unset;
     padding: 20px 0 20px;
   }
