@@ -238,7 +238,7 @@ nav>ul>li>a {
 #workcontent h3 {
   text-align: center;
   font-weight: 700;
-  color: #800080;
+  color: rgb(65, 62, 62);
 }
 
 #workcontent h4 {
@@ -467,7 +467,7 @@ Medium devices (640px and larger)
 ================================= */
 @media only screen and (min-width: 640px) {
   header {
-    
+    position: relative;
     text-align: unset;
     padding: 20px 0 20px;
   }
